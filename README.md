@@ -22,7 +22,7 @@ Also, This repository will create 3 workers, 3 master, and 3 etcd Kubernetes clu
 
    ```
    $ apt update && apt install git python python-pip unzip wget vim -y && \
-       git clone https://github.com/alicek106/aws-terraform-kubernetes.git && \
+       git clone https://github.com/surfd4wg/alicek106.git && \
        cd aws-terraform-kubernetes/terraform
    ```
 
